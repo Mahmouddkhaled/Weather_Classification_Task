@@ -12,7 +12,7 @@ It demonstrates a typical 'data science workflow': data preprocessing, explorato
 
 \## 📊 Dataset
 
-\- Source: https://github.com/Mahmouddkhaled/Weather\_Classification\_Task/blob/main/weatherAUS.csv
+\- Source: https://github.com/Mahmouddkhaled/Weather_Classification_Task
 
 \- Contains weather-related features such as MinTemp, MaxTemp, Rainfall, Evaporation, Sunshine, WindGustDir, WindGustSpeed, WindDir9am, WindDir3pm, WindSpeed9am, WindSpeed3pm, Humidity9am, Humidity3pm, Pressure9am, Pressure3pm, Cloud9am, Cloud3pm, Temp9am, Temp3pm.
 
@@ -55,6 +55,7 @@ It demonstrates a typical 'data science workflow': data preprocessing, explorato
    ```bash
 
    git clone https://github.com/mahmouddkhaled/Weather\_Classification\_Task.git
+
 
 
 
